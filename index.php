@@ -4,6 +4,15 @@
             <title>i-Web | Jasa Pembuatan Toko Online Yang Cepat, Murah</title>
 <link rel="alternate" href="https://jasaonlineshop.herokuapp.com/" hreflang="x-default">
 <link rel="alternate" href="https://jasaonlineshop.herokuapp.com/" hreflang="en-us">
+
+<link rel="icon" type="image/png"
+      href="https://static.ucraft.net/fs/ucraftsite/userFiles/garsacahyas/images/favicon.png"/>
+    <link href="https://fonts.googleapis.com/css?family=Abril+Fatface:400,600,700,800|Lato:400,500,500italic,300,300italic,700,700italic,400italic:400,600,700,800|Lora:400,700,700italic,400italic:400,600,700,800|Montserrat:400,700,400italic:400,600,700,800|Open+Sans:400,600,600italic,400italic:400,600,700,800|Oswald:400,700:400,600,700,800|Playfair+Display:400,700italic,700,400italic:400,600,700,800|Raleway:400,700:400,600,700,800|Roboto:400,700,700italic,400italic:400,600,700,800|Ubuntu:400,700,700italic,400italic" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="https://static.ucraft.net/fs/ucraftsite/userFiles/garsacahyas/css/public.css?v=1586418932">
+<link rel="stylesheet" type="text/css" href="https://static.ucraft.app/assets/fonts/icomoon.css?v=1586367523"
+      media="none" onload="if(media!=='all')media='all'">
+
+
 <meta itemprop="name" content="i-Web | Jasa Pembuatan Toko Online Yang Cepat, Murah">
 <meta name="twitter:title" content="i-Web | Jasa Pembuatan Toko Online Yang Cepat, Murah">
 <meta name="twitter:card" content="summary">
@@ -11,8 +20,8 @@
 <meta property="og:title" content="i-Web | Jasa Pembuatan Toko Online Yang Cepat, Murah">
 <meta property="og:url" content="https://jasaonlineshop.herokuapp.com">
     <meta property="og:type" content="website">
-    <link href="https://fonts.googleapis.com/css2?family=Raleway" rel="stylesheet">
-    <link href="https://fonts.googleapis.com/css2?family=Lato&family=Raleway:wght@100;700&display=swap" rel="stylesheet">
+    
+    
     <link rel="dns-prefetch" href="https://static.ucraft.net/fs">
 <link rel="dns-prefetch" href="https://static.ucraft.app/">
     <meta name="description" content="
