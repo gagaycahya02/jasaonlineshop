@@ -4715,15 +4715,15 @@ Imaging with any questions regarding Web fonts:  http://webfonts.fonts.com
 
     
         
-            <title>HOME | Mysite</title>
+            <title>i-Web | Jasa Pembuatan Toko Online Yang Cepat, Murah</title>
         
-            <link rel="canonical" href="https://gagaycahya02.wixsite.com/mysite">
+            <link rel="canonical" href="https://jasaonlineshop.herokuapp.com/">
         
-            <meta property="og:title" content="HOME | Mysite">
+            <meta property="og:title" content="i-Web | Jasa Pembuatan Toko Online Yang Cepat, Murah">
         
-            <meta property="og:url" content="https://gagaycahya02.wixsite.com/mysite">
+            <meta property="og:url" content="https://jasaonlineshop.herokuapp.com/">
         
-            <meta property="og:site_name" content="Mysite">
+            <meta property="og:site_name" content="i-Web | Jasa Pembuatan Toko Online Yang Cepat, Murah">
         
             <meta property="og:type" content="website">
         
