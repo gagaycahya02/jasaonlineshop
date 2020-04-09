@@ -1,15 +1,15 @@
 <!DOCTYPE html>
-<!-- saved from url=(0032)https://garsacahyas.ucraft.site/ -->
+<!-- saved from url=(0032)https://jasaonlineshop.herokuapp.com/ -->
 <html class="desktop " prefix="og: http://ogp.me/ns#" lang="en-us" dir="ltr" itemscope="" itemtype="http://schema.org/WebSite" data-page-type="pageBlank"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
             <title>i-Web | Jasa Pembuatan Toko Online Yang Cepat, Murah</title>
-<link rel="alternate" href="https://garsacahyas.ucraft.site/" hreflang="x-default">
-<link rel="alternate" href="https://garsacahyas.ucraft.site/" hreflang="en-us">
+<link rel="alternate" href="https://jasaonlineshop.herokuapp.com/" hreflang="x-default">
+<link rel="alternate" href="https://jasaonlineshop.herokuapp.com/" hreflang="en-us">
 <meta itemprop="name" content="i-Web | Jasa Pembuatan Toko Online Yang Cepat, Murah">
 <meta name="twitter:title" content="i-Web | Jasa Pembuatan Toko Online Yang Cepat, Murah">
 <meta name="twitter:card" content="summary">
     <meta name="twitter:site" content="@ucraftcom">
 <meta property="og:title" content="i-Web | Jasa Pembuatan Toko Online Yang Cepat, Murah">
-<meta property="og:url" content="https://garsacahyas.ucraft.site">
+<meta property="og:url" content="https://jasaonlineshop.herokuapp.com">
     <meta property="og:type" content="website">
     <link href="https://fonts.googleapis.com/css2?family=Raleway" rel="stylesheet">
     <link href="https://fonts.googleapis.com/css2?family=Lato&family=Raleway:wght@100;700&display=swap" rel="stylesheet">
@@ -29,13 +29,13 @@ A consultation with your dentist will help you find the right dental practice an
 A consultation with your dentist will help you find the right dental practice and  services to meet your needs and expectations to improve your oral health.">
 <meta name="generator" content="Ucraft">
 
-<link href="https://garsacahyas.ucraft.site/" rel="canonical">
+<link href="https://jasaonlineshop.herokuapp.com/" rel="canonical">
 <script type="application/ld+json">
 {
   "@context": "https://schema.org/",
   "@type": "Organization",
   "name": "Garsacahyas",
-  "url": "https://garsacahyas.ucraft.site"
+  "url": "https://jasaonlineshop.herokuapp.com"
 }
 </script>
 
@@ -357,7 +357,7 @@ A consultation with your dentist will help you find the right dental practice an
                     <div class="standard-view ">
             <ul class="navigation" style="font-family: &#39;&#39;Lato&#39;&#39;;">
                                                                                                                     <li class=" page  active   show" data-anchor="">
-        <a class="nav-item" href="https://garsacahyas.ucraft.site/" data-page-type="pageBlank">
+        <a class="nav-item" href="https://jasaonlineshop.herokuapp.com/" data-page-type="pageBlank">
                         <span class="title">
                 Home
             </span>
@@ -2176,8 +2176,8 @@ A consultation with your dentist will help you find the right dental practice an
                 
     var styleSheetUrls = [];
     var _token = 'fg8BylvNJw5bytQXxCvxjK7eL2FCOySymfObBAYa';
-    var editUrl = 'https://garsacahyas.ucraft.site';
-    var baseUrl = 'https://garsacahyas.ucraft.site';
+    var editUrl = 'https://jasaonlineshop.herokuapp.com';
+    var baseUrl = 'https://jasaonlineshop.herokuapp.com';
     var apiPrefix = 'api';
     var publicApiPrefix = 'papi';
     var publicRestPrefix = 'prest';
