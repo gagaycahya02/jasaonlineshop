@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <!-- saved from url=(0032)https://jasaonlineshop.herokuapp.com/ -->
 <html class="desktop " prefix="og: http://ogp.me/ns#" lang="en-us" dir="ltr" itemscope="" itemtype="http://schema.org/WebSite" data-page-type="pageBlank"><head>
-    
+
 <script async src="https://www.googletagmanager.com/gtag/js?id=UA-162947463-3"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -226,17 +226,6 @@ A consultation with your dentist will help you find the right dental practice an
         }
     }
 </script>
-
-<!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-162947463-3"></script>
-<script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-
-  gtag('config', 'UA-162947463-3');
-</script>
-
     </head>
 <body class=" txlive">
 
