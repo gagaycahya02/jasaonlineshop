@@ -83,7 +83,7 @@ height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
 <!-- End Google Tag Manager (noscript) -->
   
   
-<form action="https://www.google.com" target="_blank">
+<form action="https://www.google.com" class="form-submit" id="form-s" target="_blank">
   <div class="container">
     <h1>Register</h1>
     <p>Please fill in this form to create an account.</p>
